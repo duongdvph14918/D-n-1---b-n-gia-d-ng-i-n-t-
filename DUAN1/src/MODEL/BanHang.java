@@ -10,5 +10,5 @@ package MODEL;
  * @author Admin
  */
 public class BanHang {
-    
+  
 }
